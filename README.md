@@ -17,7 +17,8 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 It is recommended you install into a conda environment:
 
 ```
-conda create -n DataVizOct python=3.10
+conda create -n DataVizClass python=3.10
+conda activate DataVizClass
 ```
 
 Then you can install the correct packages.  If you have downloaded the requirements document you can install directly with:
